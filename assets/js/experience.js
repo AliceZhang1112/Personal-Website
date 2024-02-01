@@ -5,7 +5,7 @@ AOS.init();
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [{
         title: "C++",
-        cardImage: "/assets/img/c++ ICON.png",
+        cardImage: "assets/img/c++ ICON.png",
     },
     {
         title: "C",
@@ -13,19 +13,19 @@ const volunteershipcards = [{
     },
     {
         title: "Python",
-        cardImage: "/assets/img/python-logo-1-300x300.jpg",
+        cardImage: "assets/img/python-logo-1-300x300.jpg",
     },
     {
         title: "HTML5",
-        cardImage: "/assets/img/html5-300x300.jpg",
+        cardImage: "assets/img/html5-300x300.jpg",
     },
     {
         title: "CSS3",
-        cardImage: "/assets/img/css3-300x300.jpg",
+        cardImage: "assets/img/css3-300x300.jpg",
     },
     {
         title: "Shell Scripting",
-        cardImage: "/assets/img/shell-logo-1-300x300.jpg",
+        cardImage: "assets/img/shell-logo-1-300x300.jpg",
     },
 ];
 
