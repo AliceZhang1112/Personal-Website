@@ -11,7 +11,7 @@ window.onload = function() {
     function toggle(isPageActive) {
         if (isPageActive) {
             document.title = pageTitle
-            favicon.href = './assets/images/AlicePhoto.JPG'
+            favicon.href = './assets/images/Pineapple.JPG'
         } else {
             document.title = attentionMessage
             favicon.href = './assets/images/folded.png'
